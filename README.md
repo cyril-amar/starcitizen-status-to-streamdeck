@@ -22,7 +22,7 @@ For your Elgato Streamdeck
 ```
     Request Type                    GET
     API URL                         https://<your-domain.tld/path/to>/index.php
-    Response Type                   Treeat response as image for key
+    Response Type                   Treat response as image for key
     Autorun every                   15 Minutes
     Hide green success indicator    yes
 ```
